@@ -1,2 +1,5 @@
-THIS IS A WEBSITE THAT IS MADE WITH THE HELP OF ROBOFLOW AND CODEPEN.
-ismply upload an image and infer the results!!!
+# CPEWEBSAYT
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/TANISH-AHIRE/pen/OJqgeby](https://codepen.io/TANISH-AHIRE/pen/OJqgeby).
+
+INTERFACE FOR UPLOADING AND INFERRING IMAGES
